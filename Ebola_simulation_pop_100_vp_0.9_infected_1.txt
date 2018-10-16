@@ -1,0 +1,2928 @@
+==============METADATA=====================
+100	 0.9	 Ebola	 0.7	
+========================================================
+     Population Size: 100
+    Vaccination Rate: 0.9
+          Virus Name: Ebola
+      Mortality Rate: 0.7
+
+========================================================
+ 1 infects 82 because already sick. 
+ 82 didn't infect 1 because vaccinated. 
+ 1 infects 15 because already sick. 
+ 15 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 95 because already sick. 
+ 1 infects 32 because already sick. 
+ 32 didn't infect 1 because vaccinated. 
+ 1 infects 29 because already sick. 
+ 29 didn't infect 1 because vaccinated. 
+ 1 infects 18 because already sick. 
+ 18 didn't infect 1 because vaccinated. 
+ 1 infects 95 because already sick. 
+ 1 infects 87 because already sick. 
+ 87 didn't infect 1 because vaccinated. 
+ 1 infects 95 because already sick. 
+ 1 infects 12 because already sick. 
+ 12 didn't infect 1 because vaccinated. 
+ 1 infects 76 because already sick. 
+ 76 didn't infect 1 because vaccinated. 
+ 1 infects 55 because already sick. 
+ 55 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 12 because already sick. 
+ 12 didn't infect 1 because vaccinated. 
+ 1 infects 28 because already sick. 
+ 28 didn't infect 1 because vaccinated. 
+ 1 infects 30 because already sick. 
+ 30 didn't infect 1 because vaccinated. 
+ 1 infects 65 because already sick. 
+ 65 didn't infect 1 because vaccinated. 
+ 1 infects 78 because already sick. 
+ 78 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 72 because already sick. 
+ 72 didn't infect 1 because vaccinated. 
+ 1 infects 26 because already sick. 
+ 26 didn't infect 1 because vaccinated. 
+ 1 infects 92 because already sick. 
+ 1 infects 90 because already sick. 
+ 90 didn't infect 1 because vaccinated. 
+ 1 infects 70 because already sick. 
+ 70 didn't infect 1 because vaccinated. 
+ 1 infects 54 because already sick. 
+ 54 didn't infect 1 because vaccinated. 
+ 1 infects 29 because already sick. 
+ 29 didn't infect 1 because vaccinated. 
+ 1 infects 58 because already sick. 
+ 58 didn't infect 1 because vaccinated. 
+ 1 infects 76 because already sick. 
+ 76 didn't infect 1 because vaccinated. 
+ 1 infects 36 because already sick. 
+ 36 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 98 because already sick. 
+ 1 infects 90 because already sick. 
+ 90 didn't infect 1 because vaccinated. 
+ 1 infects 55 because already sick. 
+ 55 didn't infect 1 because vaccinated. 
+ 1 infects 44 because already sick. 
+ 44 didn't infect 1 because vaccinated. 
+ 1 infects 36 because already sick. 
+ 36 didn't infect 1 because vaccinated. 
+ 1 infects 20 because already sick. 
+ 20 didn't infect 1 because vaccinated. 
+ 1 infects 28 because already sick. 
+ 28 didn't infect 1 because vaccinated. 
+ 1 infects 98 because already sick. 
+ 1 infects 14 because already sick. 
+ 14 didn't infect 1 because vaccinated. 
+ 1 infects 12 because already sick. 
+ 12 didn't infect 1 because vaccinated. 
+ 1 infects 49 because already sick. 
+ 49 didn't infect 1 because vaccinated. 
+ 1 infects 13 because already sick. 
+ 13 didn't infect 1 because vaccinated. 
+ 1 infects 46 because already sick. 
+ 46 didn't infect 1 because vaccinated. 
+ 1 infects 45 because already sick. 
+ 45 didn't infect 1 because vaccinated. 
+ 1 infects 78 because already sick. 
+ 78 didn't infect 1 because vaccinated. 
+ 1 infects 34 because already sick. 
+ 34 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 94 because already sick. 
+ 1 infects 69 because already sick. 
+ 69 didn't infect 1 because vaccinated. 
+ 1 infects 16 because already sick. 
+ 16 didn't infect 1 because vaccinated. 
+ 1 infects 49 because already sick. 
+ 49 didn't infect 1 because vaccinated. 
+ 1 infects 11 because already sick. 
+ 11 didn't infect 1 because vaccinated. 
+ 1 infects 71 because already sick. 
+ 71 didn't infect 1 because vaccinated. 
+ 1 infects 38 because already sick. 
+ 38 didn't infect 1 because vaccinated. 
+ 1 infects 81 because already sick. 
+ 81 didn't infect 1 because vaccinated. 
+ 1 infects 80 because already sick. 
+ 80 didn't infect 1 because vaccinated. 
+ 1 infects 47 because already sick. 
+ 47 didn't infect 1 because vaccinated. 
+ 1 infects 74 because already sick. 
+ 74 didn't infect 1 because vaccinated. 
+ 1 infects 25 because already sick. 
+ 25 didn't infect 1 because vaccinated. 
+ 1 infects 91 because already sick. 
+ 91 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 85 because already sick. 
+ 85 didn't infect 1 because vaccinated. 
+ 1 infects 30 because already sick. 
+ 30 didn't infect 1 because vaccinated. 
+ 1 infects 99 because already sick. 
+ 1 infects 11 because already sick. 
+ 11 didn't infect 1 because vaccinated. 
+ 1 infects 30 because already sick. 
+ 30 didn't infect 1 because vaccinated. 
+ 1 infects 13 because already sick. 
+ 13 didn't infect 1 because vaccinated. 
+ 1 infects 49 because already sick. 
+ 49 didn't infect 1 because vaccinated. 
+ 1 infects 36 because already sick. 
+ 36 didn't infect 1 because vaccinated. 
+ 1 infects 59 because already sick. 
+ 59 didn't infect 1 because vaccinated. 
+ 1 infects 82 because already sick. 
+ 82 didn't infect 1 because vaccinated. 
+ 1 infects 47 because already sick. 
+ 47 didn't infect 1 because vaccinated. 
+ 1 infects 21 because already sick. 
+ 21 didn't infect 1 because vaccinated. 
+ 1 infects 48 because already sick. 
+ 48 didn't infect 1 because vaccinated. 
+ 1 infects 46 because already sick. 
+ 46 didn't infect 1 because vaccinated. 
+ 1 infects 27 because already sick. 
+ 27 didn't infect 1 because vaccinated. 
+ 1 infects 86 because already sick. 
+ 86 didn't infect 1 because vaccinated. 
+ 1 infects 35 because already sick. 
+ 35 didn't infect 1 because vaccinated. 
+ 1 infects 90 because already sick. 
+ 90 didn't infect 1 because vaccinated. 
+ 1 infects 88 because already sick. 
+ 88 didn't infect 1 because vaccinated. 
+ 1 infects 83 because already sick. 
+ 83 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 78 because already sick. 
+ 78 didn't infect 1 because vaccinated. 
+ 1 infects 82 because already sick. 
+ 82 didn't infect 1 because vaccinated. 
+ 1 infects 22 because already sick. 
+ 22 didn't infect 1 because vaccinated. 
+ 1 infects 69 because already sick. 
+ 69 didn't infect 1 because vaccinated. 
+ 1 infects 94 because already sick. 
+ 1 infects 21 because already sick. 
+ 21 didn't infect 1 because vaccinated. 
+ 1 infects 60 because already sick. 
+ 60 didn't infect 1 because vaccinated. 
+ 1 infects 49 because already sick. 
+ 49 didn't infect 1 because vaccinated. 
+ 1 infects 35 because already sick. 
+ 35 didn't infect 1 because vaccinated. 
+ 1 infects 82 because already sick. 
+ 82 didn't infect 1 because vaccinated. 
+ 1 infects 89 because already sick. 
+ 89 didn't infect 1 because vaccinated. 
+ 1 infects 72 because already sick. 
+ 72 didn't infect 1 because vaccinated. 
+ 1 infects 29 because already sick. 
+ 29 didn't infect 1 because vaccinated. 
+ 1 infects 88 because already sick. 
+ 88 didn't infect 1 because vaccinated. 
+ 1 infects 42 because already sick. 
+ 42 didn't infect 1 because vaccinated. 
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 92 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 96 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 98 survived infection and is now immune
+ Person ID: 99 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+==============TIME STEP==========================
+
+ ==============================================
+
+ Time step 1 has ended, starting time step 2
+
+ ==============================================
+ 92 infects 30 because already sick. 
+ 30 didn't infect 92 because vaccinated. 
+ 92 infects 5 because already sick. 
+ 5 didn't infect 92 because vaccinated. 
+ 92 infects 41 because already sick. 
+ 41 didn't infect 92 because vaccinated. 
+ 92 infects 52 because already sick. 
+ 52 didn't infect 92 because vaccinated. 
+ 92 infects 35 because already sick. 
+ 35 didn't infect 92 because vaccinated. 
+ 92 infects 9 because already sick. 
+ 9 didn't infect 92 because vaccinated. 
+ 92 infects 28 because already sick. 
+ 28 didn't infect 92 because vaccinated. 
+ 92 infects 73 because already sick. 
+ 73 didn't infect 92 because vaccinated. 
+ 92 infects 92 because already sick. 
+ 92 infects 92 because already sick. 
+ 92 infects 41 because already sick. 
+ 41 didn't infect 92 because vaccinated. 
+ 92 infects 28 because already sick. 
+ 28 didn't infect 92 because vaccinated. 
+ 92 infects 84 because already sick. 
+ 84 didn't infect 92 because vaccinated. 
+ 92 infects 64 because already sick. 
+ 64 didn't infect 92 because vaccinated. 
+ 92 infects 51 because already sick. 
+ 51 didn't infect 92 because vaccinated. 
+ 92 infects 83 because already sick. 
+ 83 didn't infect 92 because vaccinated. 
+ 92 infects 59 because already sick. 
+ 59 didn't infect 92 because vaccinated. 
+ 92 infects 19 because already sick. 
+ 19 didn't infect 92 because vaccinated. 
+ 92 infects 34 because already sick. 
+ 34 didn't infect 92 because vaccinated. 
+ 92 infects 18 because already sick. 
+ 18 didn't infect 92 because vaccinated. 
+ 92 infects 32 because already sick. 
+ 32 didn't infect 92 because vaccinated. 
+ 92 infects 96 because already sick. 
+ 92 infects 69 because already sick. 
+ 69 didn't infect 92 because vaccinated. 
+ 92 infects 34 because already sick. 
+ 34 didn't infect 92 because vaccinated. 
+ 92 infects 96 because already sick. 
+ 92 infects 55 because already sick. 
+ 55 didn't infect 92 because vaccinated. 
+ 92 infects 75 because already sick. 
+ 75 didn't infect 92 because vaccinated. 
+ 92 infects 52 because already sick. 
+ 52 didn't infect 92 because vaccinated. 
+ 92 infects 47 because already sick. 
+ 47 didn't infect 92 because vaccinated. 
+ 92 infects 29 because already sick. 
+ 29 didn't infect 92 because vaccinated. 
+ 92 infects 18 because already sick. 
+ 18 didn't infect 92 because vaccinated. 
+ 92 infects 66 because already sick. 
+ 66 didn't infect 92 because vaccinated. 
+ 92 infects 64 because already sick. 
+ 64 didn't infect 92 because vaccinated. 
+ 92 infects 12 because already sick. 
+ 12 didn't infect 92 because vaccinated. 
+ 92 infects 97 because already sick. 
+ 92 infects 15 because already sick. 
+ 15 didn't infect 92 because vaccinated. 
+ 92 infects 20 because already sick. 
+ 20 didn't infect 92 because vaccinated. 
+ 92 infects 81 because already sick. 
+ 81 didn't infect 92 because vaccinated. 
+ 92 infects 21 because already sick. 
+ 21 didn't infect 92 because vaccinated. 
+ 92 infects 88 because already sick. 
+ 88 didn't infect 92 because vaccinated. 
+ 92 infects 55 because already sick. 
+ 55 didn't infect 92 because vaccinated. 
+ 92 infects 77 because already sick. 
+ 77 didn't infect 92 because vaccinated. 
+ 92 infects 9 because already sick. 
+ 9 didn't infect 92 because vaccinated. 
+ 92 infects 50 because already sick. 
+ 50 didn't infect 92 because vaccinated. 
+ 92 infects 49 because already sick. 
+ 49 didn't infect 92 because vaccinated. 
+ 92 infects 77 because already sick. 
+ 77 didn't infect 92 because vaccinated. 
+ 92 infects 60 because already sick. 
+ 60 didn't infect 92 because vaccinated. 
+ 92 infects 68 because already sick. 
+ 68 didn't infect 92 because vaccinated. 
+ 92 infects 33 because already sick. 
+ 33 didn't infect 92 because vaccinated. 
+ 92 infects 71 because already sick. 
+ 71 didn't infect 92 because vaccinated. 
+ 92 infects 2 because already sick. 
+ 2 didn't infect 92 because vaccinated. 
+ 92 infects 88 because already sick. 
+ 88 didn't infect 92 because vaccinated. 
+ 92 infects 93 because already sick. 
+ 92 infects 88 because already sick. 
+ 88 didn't infect 92 because vaccinated. 
+ 92 infects 69 because already sick. 
+ 69 didn't infect 92 because vaccinated. 
+ 92 infects 97 because already sick. 
+ 92 infects 99 because already sick. 
+ 99 infects 92 because already sick. 
+ 92 infects 83 because already sick. 
+ 83 didn't infect 92 because vaccinated. 
+ 92 infects 44 because already sick. 
+ 44 didn't infect 92 because vaccinated. 
+ 92 infects 15 because already sick. 
+ 15 didn't infect 92 because vaccinated. 
+ 92 infects 38 because already sick. 
+ 38 didn't infect 92 because vaccinated. 
+ 92 infects 56 because already sick. 
+ 56 didn't infect 92 because vaccinated. 
+ 92 infects 21 because already sick. 
+ 21 didn't infect 92 because vaccinated. 
+ 92 infects 59 because already sick. 
+ 59 didn't infect 92 because vaccinated. 
+ 92 infects 93 because already sick. 
+ 92 infects 34 because already sick. 
+ 34 didn't infect 92 because vaccinated. 
+ 92 infects 65 because already sick. 
+ 65 didn't infect 92 because vaccinated. 
+ 92 infects 98 because already sick. 
+ 98 infects 92 because already sick. 
+ 92 infects 23 because already sick. 
+ 23 didn't infect 92 because vaccinated. 
+ 92 infects 65 because already sick. 
+ 65 didn't infect 92 because vaccinated. 
+ 92 infects 14 because already sick. 
+ 14 didn't infect 92 because vaccinated. 
+ 92 infects 81 because already sick. 
+ 81 didn't infect 92 because vaccinated. 
+ 92 infects 39 because already sick. 
+ 39 didn't infect 92 because vaccinated. 
+ 92 infects 82 because already sick. 
+ 82 didn't infect 92 because vaccinated. 
+ 92 infects 65 because already sick. 
+ 65 didn't infect 92 because vaccinated. 
+ 92 infects 78 because already sick. 
+ 78 didn't infect 92 because vaccinated. 
+ 92 infects 26 because already sick. 
+ 26 didn't infect 92 because vaccinated. 
+ 92 infects 20 because already sick. 
+ 20 didn't infect 92 because vaccinated. 
+ 92 infects 48 because already sick. 
+ 48 didn't infect 92 because vaccinated. 
+ 92 infects 98 because already sick. 
+ 98 infects 92 because already sick. 
+ 92 infects 21 because already sick. 
+ 21 didn't infect 92 because vaccinated. 
+ 92 infects 70 because already sick. 
+ 70 didn't infect 92 because vaccinated. 
+ 92 infects 100 because already sick. 
+ 92 infects 77 because already sick. 
+ 77 didn't infect 92 because vaccinated. 
+ 92 infects 42 because already sick. 
+ 42 didn't infect 92 because vaccinated. 
+ 92 infects 63 because already sick. 
+ 63 didn't infect 92 because vaccinated. 
+ 92 infects 3 because already sick. 
+ 3 didn't infect 92 because vaccinated. 
+ 92 infects 15 because already sick. 
+ 15 didn't infect 92 because vaccinated. 
+ 92 infects 47 because already sick. 
+ 47 didn't infect 92 because vaccinated. 
+ 92 infects 40 because already sick. 
+ 40 didn't infect 92 because vaccinated. 
+ 92 infects 31 because already sick. 
+ 31 didn't infect 92 because vaccinated. 
+ 92 infects 8 because already sick. 
+ 8 didn't infect 92 because vaccinated. 
+ 92 infects 31 because already sick. 
+ 31 didn't infect 92 because vaccinated. 
+ 92 infects 73 because already sick. 
+ 73 didn't infect 92 because vaccinated. 
+ 92 infects 11 because already sick. 
+ 11 didn't infect 92 because vaccinated. 
+ 92 infects 11 because already sick. 
+ 11 didn't infect 92 because vaccinated. 
+ 92 infects 94 because already sick. 
+ 94 infects 92 because already sick. 
+ 92 infects 63 because already sick. 
+ 63 didn't infect 92 because vaccinated. 
+ 92 infects 9 because already sick. 
+ 9 didn't infect 92 because vaccinated. 
+ 94 infects 98 because already sick. 
+ 98 infects 94 because already sick. 
+ 94 infects 69 because already sick. 
+ 69 didn't infect 94 because vaccinated. 
+ 94 infects 99 because already sick. 
+ 99 infects 94 because already sick. 
+ 94 infects 17 because already sick. 
+ 17 didn't infect 94 because vaccinated. 
+ 94 infects 17 because already sick. 
+ 17 didn't infect 94 because vaccinated. 
+ 94 infects 85 because already sick. 
+ 85 didn't infect 94 because vaccinated. 
+ 94 infects 61 because already sick. 
+ 61 didn't infect 94 because vaccinated. 
+ 94 infects 71 because already sick. 
+ 71 didn't infect 94 because vaccinated. 
+ 94 infects 22 because already sick. 
+ 22 didn't infect 94 because vaccinated. 
+ 94 infects 34 because already sick. 
+ 34 didn't infect 94 because vaccinated. 
+ 94 infects 68 because already sick. 
+ 68 didn't infect 94 because vaccinated. 
+ 94 infects 78 because already sick. 
+ 78 didn't infect 94 because vaccinated. 
+ 94 infects 55 because already sick. 
+ 55 didn't infect 94 because vaccinated. 
+ 94 infects 28 because already sick. 
+ 28 didn't infect 94 because vaccinated. 
+ 94 infects 70 because already sick. 
+ 70 didn't infect 94 because vaccinated. 
+ 94 infects 97 because already sick. 
+ 94 infects 89 because already sick. 
+ 89 didn't infect 94 because vaccinated. 
+ 94 infects 26 because already sick. 
+ 26 didn't infect 94 because vaccinated. 
+ 94 infects 92 because already sick. 
+ 92 infects 94 because already sick. 
+ 94 infects 40 because already sick. 
+ 40 didn't infect 94 because vaccinated. 
+ 94 infects 52 because already sick. 
+ 52 didn't infect 94 because vaccinated. 
+ 94 infects 86 because already sick. 
+ 86 didn't infect 94 because vaccinated. 
+ 94 infects 84 because already sick. 
+ 84 didn't infect 94 because vaccinated. 
+ 94 infects 48 because already sick. 
+ 48 didn't infect 94 because vaccinated. 
+ 94 infects 57 because already sick. 
+ 57 didn't infect 94 because vaccinated. 
+ 94 infects 67 because already sick. 
+ 67 didn't infect 94 because vaccinated. 
+ 94 infects 58 because already sick. 
+ 58 didn't infect 94 because vaccinated. 
+ 94 infects 16 because already sick. 
+ 16 didn't infect 94 because vaccinated. 
+ 94 infects 32 because already sick. 
+ 32 didn't infect 94 because vaccinated. 
+ 94 infects 29 because already sick. 
+ 29 didn't infect 94 because vaccinated. 
+ 94 infects 9 because already sick. 
+ 9 didn't infect 94 because vaccinated. 
+ 94 infects 44 because already sick. 
+ 44 didn't infect 94 because vaccinated. 
+ 94 infects 3 because already sick. 
+ 3 didn't infect 94 because vaccinated. 
+ 94 infects 76 because already sick. 
+ 76 didn't infect 94 because vaccinated. 
+ 94 infects 71 because already sick. 
+ 71 didn't infect 94 because vaccinated. 
+ 94 infects 30 because already sick. 
+ 30 didn't infect 94 because vaccinated. 
+ 94 infects 76 because already sick. 
+ 76 didn't infect 94 because vaccinated. 
+ 94 infects 29 because already sick. 
+ 29 didn't infect 94 because vaccinated. 
+ 94 infects 10 because already sick. 
+ 10 didn't infect 94 because vaccinated. 
+ 94 infects 91 because already sick. 
+ 91 didn't infect 94 because vaccinated. 
+ 94 infects 81 because already sick. 
+ 81 didn't infect 94 because vaccinated. 
+ 94 infects 8 because already sick. 
+ 8 didn't infect 94 because vaccinated. 
+ 94 infects 30 because already sick. 
+ 30 didn't infect 94 because vaccinated. 
+ 94 infects 9 because already sick. 
+ 9 didn't infect 94 because vaccinated. 
+ 94 infects 5 because already sick. 
+ 5 didn't infect 94 because vaccinated. 
+ 94 infects 43 because already sick. 
+ 43 didn't infect 94 because vaccinated. 
+ 94 infects 10 because already sick. 
+ 10 didn't infect 94 because vaccinated. 
+ 94 infects 66 because already sick. 
+ 66 didn't infect 94 because vaccinated. 
+ 94 infects 31 because already sick. 
+ 31 didn't infect 94 because vaccinated. 
+ 94 infects 36 because already sick. 
+ 36 didn't infect 94 because vaccinated. 
+ 94 infects 86 because already sick. 
+ 86 didn't infect 94 because vaccinated. 
+ 94 infects 63 because already sick. 
+ 63 didn't infect 94 because vaccinated. 
+ 94 infects 28 because already sick. 
+ 28 didn't infect 94 because vaccinated. 
+ 94 infects 70 because already sick. 
+ 70 didn't infect 94 because vaccinated. 
+ 94 infects 17 because already sick. 
+ 17 didn't infect 94 because vaccinated. 
+ 94 infects 93 because already sick. 
+ 94 infects 74 because already sick. 
+ 74 didn't infect 94 because vaccinated. 
+ 94 infects 61 because already sick. 
+ 61 didn't infect 94 because vaccinated. 
+ 94 infects 32 because already sick. 
+ 32 didn't infect 94 because vaccinated. 
+ 94 infects 61 because already sick. 
+ 61 didn't infect 94 because vaccinated. 
+ 94 infects 53 because already sick. 
+ 53 didn't infect 94 because vaccinated. 
+ 94 infects 25 because already sick. 
+ 25 didn't infect 94 because vaccinated. 
+ 94 infects 13 because already sick. 
+ 13 didn't infect 94 because vaccinated. 
+ 94 infects 13 because already sick. 
+ 13 didn't infect 94 because vaccinated. 
+ 94 infects 85 because already sick. 
+ 85 didn't infect 94 because vaccinated. 
+ 94 infects 56 because already sick. 
+ 56 didn't infect 94 because vaccinated. 
+ 94 infects 46 because already sick. 
+ 46 didn't infect 94 because vaccinated. 
+ 94 infects 55 because already sick. 
+ 55 didn't infect 94 because vaccinated. 
+ 94 infects 53 because already sick. 
+ 53 didn't infect 94 because vaccinated. 
+ 94 infects 60 because already sick. 
+ 60 didn't infect 94 because vaccinated. 
+ 94 infects 94 because already sick. 
+ 94 infects 94 because already sick. 
+ 94 infects 7 because already sick. 
+ 7 didn't infect 94 because vaccinated. 
+ 94 infects 87 because already sick. 
+ 87 didn't infect 94 because vaccinated. 
+ 94 infects 84 because already sick. 
+ 84 didn't infect 94 because vaccinated. 
+ 94 infects 83 because already sick. 
+ 83 didn't infect 94 because vaccinated. 
+ 94 infects 13 because already sick. 
+ 13 didn't infect 94 because vaccinated. 
+ 94 infects 8 because already sick. 
+ 8 didn't infect 94 because vaccinated. 
+ 94 infects 52 because already sick. 
+ 52 didn't infect 94 because vaccinated. 
+ 94 infects 94 because already sick. 
+ 94 infects 94 because already sick. 
+ 94 infects 44 because already sick. 
+ 44 didn't infect 94 because vaccinated. 
+ 94 infects 14 because already sick. 
+ 14 didn't infect 94 because vaccinated. 
+ 94 infects 32 because already sick. 
+ 32 didn't infect 94 because vaccinated. 
+ 94 infects 25 because already sick. 
+ 25 didn't infect 94 because vaccinated. 
+ 94 infects 25 because already sick. 
+ 25 didn't infect 94 because vaccinated. 
+ 94 infects 69 because already sick. 
+ 69 didn't infect 94 because vaccinated. 
+ 94 infects 58 because already sick. 
+ 58 didn't infect 94 because vaccinated. 
+ 94 infects 18 because already sick. 
+ 18 didn't infect 94 because vaccinated. 
+ 94 infects 55 because already sick. 
+ 55 didn't infect 94 because vaccinated. 
+ 94 infects 24 because already sick. 
+ 24 didn't infect 94 because vaccinated. 
+ 94 infects 36 because already sick. 
+ 36 didn't infect 94 because vaccinated. 
+ 94 infects 60 because already sick. 
+ 60 didn't infect 94 because vaccinated. 
+ 94 infects 32 because already sick. 
+ 32 didn't infect 94 because vaccinated. 
+ 94 infects 10 because already sick. 
+ 10 didn't infect 94 because vaccinated. 
+ 94 infects 57 because already sick. 
+ 57 didn't infect 94 because vaccinated. 
+ 94 infects 71 because already sick. 
+ 71 didn't infect 94 because vaccinated. 
+ 94 infects 13 because already sick. 
+ 13 didn't infect 94 because vaccinated. 
+ 94 infects 7 because already sick. 
+ 7 didn't infect 94 because vaccinated. 
+ 94 infects 84 because already sick. 
+ 84 didn't infect 94 because vaccinated. 
+ 94 infects 70 because already sick. 
+ 70 didn't infect 94 because vaccinated. 
+ 95 infects 2 because already sick. 
+ 2 didn't infect 95 because vaccinated. 
+ 95 infects 12 because already sick. 
+ 12 didn't infect 95 because vaccinated. 
+ 95 infects 97 because already sick. 
+ 95 infects 22 because already sick. 
+ 22 didn't infect 95 because vaccinated. 
+ 95 infects 53 because already sick. 
+ 53 didn't infect 95 because vaccinated. 
+ 95 infects 63 because already sick. 
+ 63 didn't infect 95 because vaccinated. 
+ 95 infects 62 because already sick. 
+ 62 didn't infect 95 because vaccinated. 
+ 95 infects 28 because already sick. 
+ 28 didn't infect 95 because vaccinated. 
+ 95 infects 52 because already sick. 
+ 52 didn't infect 95 because vaccinated. 
+ 95 infects 8 because already sick. 
+ 8 didn't infect 95 because vaccinated. 
+ 95 infects 22 because already sick. 
+ 22 didn't infect 95 because vaccinated. 
+ 95 infects 49 because already sick. 
+ 49 didn't infect 95 because vaccinated. 
+ 95 infects 50 because already sick. 
+ 50 didn't infect 95 because vaccinated. 
+ 95 infects 34 because already sick. 
+ 34 didn't infect 95 because vaccinated. 
+ 95 infects 59 because already sick. 
+ 59 didn't infect 95 because vaccinated. 
+ 95 infects 37 because already sick. 
+ 37 didn't infect 95 because vaccinated. 
+ 95 infects 55 because already sick. 
+ 55 didn't infect 95 because vaccinated. 
+ 95 infects 90 because already sick. 
+ 90 didn't infect 95 because vaccinated. 
+ 95 infects 94 because already sick. 
+ 94 infects 95 because already sick. 
+ 95 infects 72 because already sick. 
+ 72 didn't infect 95 because vaccinated. 
+ 95 infects 85 because already sick. 
+ 85 didn't infect 95 because vaccinated. 
+ 95 infects 92 because already sick. 
+ 92 infects 95 because already sick. 
+ 95 infects 63 because already sick. 
+ 63 didn't infect 95 because vaccinated. 
+ 95 infects 20 because already sick. 
+ 20 didn't infect 95 because vaccinated. 
+ 95 infects 25 because already sick. 
+ 25 didn't infect 95 because vaccinated. 
+ 95 infects 38 because already sick. 
+ 38 didn't infect 95 because vaccinated. 
+ 95 infects 28 because already sick. 
+ 28 didn't infect 95 because vaccinated. 
+ 95 infects 8 because already sick. 
+ 8 didn't infect 95 because vaccinated. 
+ 95 infects 75 because already sick. 
+ 75 didn't infect 95 because vaccinated. 
+ 95 infects 95 because already sick. 
+ 95 infects 95 because already sick. 
+ 95 infects 70 because already sick. 
+ 70 didn't infect 95 because vaccinated. 
+ 95 infects 8 because already sick. 
+ 8 didn't infect 95 because vaccinated. 
+ 95 infects 96 because already sick. 
+ 95 infects 8 because already sick. 
+ 8 didn't infect 95 because vaccinated. 
+ 95 infects 7 because already sick. 
+ 7 didn't infect 95 because vaccinated. 
+ 95 infects 75 because already sick. 
+ 75 didn't infect 95 because vaccinated. 
+ 95 infects 62 because already sick. 
+ 62 didn't infect 95 because vaccinated. 
+ 95 infects 65 because already sick. 
+ 65 didn't infect 95 because vaccinated. 
+ 95 infects 68 because already sick. 
+ 68 didn't infect 95 because vaccinated. 
+ 95 infects 21 because already sick. 
+ 21 didn't infect 95 because vaccinated. 
+ 95 infects 8 because already sick. 
+ 8 didn't infect 95 because vaccinated. 
+ 95 infects 66 because already sick. 
+ 66 didn't infect 95 because vaccinated. 
+ 95 infects 11 because already sick. 
+ 11 didn't infect 95 because vaccinated. 
+ 95 infects 24 because already sick. 
+ 24 didn't infect 95 because vaccinated. 
+ 95 infects 9 because already sick. 
+ 9 didn't infect 95 because vaccinated. 
+ 95 infects 77 because already sick. 
+ 77 didn't infect 95 because vaccinated. 
+ 95 infects 9 because already sick. 
+ 9 didn't infect 95 because vaccinated. 
+ 95 infects 87 because already sick. 
+ 87 didn't infect 95 because vaccinated. 
+ 95 infects 31 because already sick. 
+ 31 didn't infect 95 because vaccinated. 
+ 95 infects 52 because already sick. 
+ 52 didn't infect 95 because vaccinated. 
+ 95 infects 16 because already sick. 
+ 16 didn't infect 95 because vaccinated. 
+ 95 infects 73 because already sick. 
+ 73 didn't infect 95 because vaccinated. 
+ 95 infects 32 because already sick. 
+ 32 didn't infect 95 because vaccinated. 
+ 95 infects 75 because already sick. 
+ 75 didn't infect 95 because vaccinated. 
+ 95 infects 77 because already sick. 
+ 77 didn't infect 95 because vaccinated. 
+ 95 infects 6 because already sick. 
+ 6 didn't infect 95 because vaccinated. 
+ 95 infects 80 because already sick. 
+ 80 didn't infect 95 because vaccinated. 
+ 95 infects 11 because already sick. 
+ 11 didn't infect 95 because vaccinated. 
+ 95 infects 54 because already sick. 
+ 54 didn't infect 95 because vaccinated. 
+ 95 infects 85 because already sick. 
+ 85 didn't infect 95 because vaccinated. 
+ 95 infects 75 because already sick. 
+ 75 didn't infect 95 because vaccinated. 
+ 95 infects 73 because already sick. 
+ 73 didn't infect 95 because vaccinated. 
+ 95 infects 67 because already sick. 
+ 67 didn't infect 95 because vaccinated. 
+ 95 infects 41 because already sick. 
+ 41 didn't infect 95 because vaccinated. 
+ 95 infects 34 because already sick. 
+ 34 didn't infect 95 because vaccinated. 
+ 95 infects 27 because already sick. 
+ 27 didn't infect 95 because vaccinated. 
+ 95 infects 86 because already sick. 
+ 86 didn't infect 95 because vaccinated. 
+ 95 infects 92 because already sick. 
+ 92 infects 95 because already sick. 
+ 95 infects 41 because already sick. 
+ 41 didn't infect 95 because vaccinated. 
+ 95 infects 31 because already sick. 
+ 31 didn't infect 95 because vaccinated. 
+ 95 infects 34 because already sick. 
+ 34 didn't infect 95 because vaccinated. 
+ 95 infects 51 because already sick. 
+ 51 didn't infect 95 because vaccinated. 
+ 95 infects 17 because already sick. 
+ 17 didn't infect 95 because vaccinated. 
+ 95 infects 86 because already sick. 
+ 86 didn't infect 95 because vaccinated. 
+ 95 infects 83 because already sick. 
+ 83 didn't infect 95 because vaccinated. 
+ 95 infects 39 because already sick. 
+ 39 didn't infect 95 because vaccinated. 
+ 95 infects 59 because already sick. 
+ 59 didn't infect 95 because vaccinated. 
+ 95 infects 41 because already sick. 
+ 41 didn't infect 95 because vaccinated. 
+ 95 infects 97 because already sick. 
+ 95 infects 2 because already sick. 
+ 2 didn't infect 95 because vaccinated. 
+ 95 infects 59 because already sick. 
+ 59 didn't infect 95 because vaccinated. 
+ 95 infects 80 because already sick. 
+ 80 didn't infect 95 because vaccinated. 
+ 95 infects 73 because already sick. 
+ 73 didn't infect 95 because vaccinated. 
+ 95 infects 13 because already sick. 
+ 13 didn't infect 95 because vaccinated. 
+ 95 infects 10 because already sick. 
+ 10 didn't infect 95 because vaccinated. 
+ 95 infects 69 because already sick. 
+ 69 didn't infect 95 because vaccinated. 
+ 95 infects 28 because already sick. 
+ 28 didn't infect 95 because vaccinated. 
+ 95 infects 65 because already sick. 
+ 65 didn't infect 95 because vaccinated. 
+ 95 infects 34 because already sick. 
+ 34 didn't infect 95 because vaccinated. 
+ 95 infects 17 because already sick. 
+ 17 didn't infect 95 because vaccinated. 
+ 95 infects 45 because already sick. 
+ 45 didn't infect 95 because vaccinated. 
+ 95 infects 9 because already sick. 
+ 9 didn't infect 95 because vaccinated. 
+ 95 infects 32 because already sick. 
+ 32 didn't infect 95 because vaccinated. 
+ 95 infects 48 because already sick. 
+ 48 didn't infect 95 because vaccinated. 
+ 95 infects 37 because already sick. 
+ 37 didn't infect 95 because vaccinated. 
+ 95 infects 21 because already sick. 
+ 21 didn't infect 95 because vaccinated. 
+ 95 infects 57 because already sick. 
+ 57 didn't infect 95 because vaccinated. 
+ 95 infects 70 because already sick. 
+ 70 didn't infect 95 because vaccinated. 
+ 95 infects 91 because already sick. 
+ 91 didn't infect 95 because vaccinated. 
+ 98 infects 39 because already sick. 
+ 39 didn't infect 98 because vaccinated. 
+ 98 infects 79 because already sick. 
+ 79 didn't infect 98 because vaccinated. 
+ 98 infects 84 because already sick. 
+ 84 didn't infect 98 because vaccinated. 
+ 98 infects 68 because already sick. 
+ 68 didn't infect 98 because vaccinated. 
+ 98 infects 2 because already sick. 
+ 2 didn't infect 98 because vaccinated. 
+ 98 infects 86 because already sick. 
+ 86 didn't infect 98 because vaccinated. 
+ 98 infects 71 because already sick. 
+ 71 didn't infect 98 because vaccinated. 
+ 98 infects 39 because already sick. 
+ 39 didn't infect 98 because vaccinated. 
+ 98 infects 85 because already sick. 
+ 85 didn't infect 98 because vaccinated. 
+ 98 infects 14 because already sick. 
+ 14 didn't infect 98 because vaccinated. 
+ 98 infects 18 because already sick. 
+ 18 didn't infect 98 because vaccinated. 
+ 98 infects 34 because already sick. 
+ 34 didn't infect 98 because vaccinated. 
+ 98 infects 15 because already sick. 
+ 15 didn't infect 98 because vaccinated. 
+ 98 infects 14 because already sick. 
+ 14 didn't infect 98 because vaccinated. 
+ 98 infects 96 because already sick. 
+ 98 infects 20 because already sick. 
+ 20 didn't infect 98 because vaccinated. 
+ 98 infects 35 because already sick. 
+ 35 didn't infect 98 because vaccinated. 
+ 98 infects 37 because already sick. 
+ 37 didn't infect 98 because vaccinated. 
+ 98 infects 78 because already sick. 
+ 78 didn't infect 98 because vaccinated. 
+ 98 infects 27 because already sick. 
+ 27 didn't infect 98 because vaccinated. 
+ 98 infects 92 because already sick. 
+ 92 infects 98 because already sick. 
+ 98 infects 44 because already sick. 
+ 44 didn't infect 98 because vaccinated. 
+ 98 infects 27 because already sick. 
+ 27 didn't infect 98 because vaccinated. 
+ 98 infects 88 because already sick. 
+ 88 didn't infect 98 because vaccinated. 
+ 98 infects 82 because already sick. 
+ 82 didn't infect 98 because vaccinated. 
+ 98 infects 34 because already sick. 
+ 34 didn't infect 98 because vaccinated. 
+ 98 infects 65 because already sick. 
+ 65 didn't infect 98 because vaccinated. 
+ 98 infects 63 because already sick. 
+ 63 didn't infect 98 because vaccinated. 
+ 98 infects 33 because already sick. 
+ 33 didn't infect 98 because vaccinated. 
+ 98 infects 7 because already sick. 
+ 7 didn't infect 98 because vaccinated. 
+ 98 infects 12 because already sick. 
+ 12 didn't infect 98 because vaccinated. 
+ 98 infects 82 because already sick. 
+ 82 didn't infect 98 because vaccinated. 
+ 98 infects 55 because already sick. 
+ 55 didn't infect 98 because vaccinated. 
+ 98 infects 36 because already sick. 
+ 36 didn't infect 98 because vaccinated. 
+ 98 infects 6 because already sick. 
+ 6 didn't infect 98 because vaccinated. 
+ 98 infects 43 because already sick. 
+ 43 didn't infect 98 because vaccinated. 
+ 98 infects 99 because already sick. 
+ 99 infects 98 because already sick. 
+ 98 infects 17 because already sick. 
+ 17 didn't infect 98 because vaccinated. 
+ 98 infects 82 because already sick. 
+ 82 didn't infect 98 because vaccinated. 
+ 98 infects 34 because already sick. 
+ 34 didn't infect 98 because vaccinated. 
+ 98 infects 21 because already sick. 
+ 21 didn't infect 98 because vaccinated. 
+ 98 infects 95 because already sick. 
+ 95 infects 98 because already sick. 
+ 98 infects 57 because already sick. 
+ 57 didn't infect 98 because vaccinated. 
+ 98 infects 71 because already sick. 
+ 71 didn't infect 98 because vaccinated. 
+ 98 infects 91 because already sick. 
+ 91 didn't infect 98 because vaccinated. 
+ 98 infects 55 because already sick. 
+ 55 didn't infect 98 because vaccinated. 
+ 98 infects 72 because already sick. 
+ 72 didn't infect 98 because vaccinated. 
+ 98 infects 2 because already sick. 
+ 2 didn't infect 98 because vaccinated. 
+ 98 infects 15 because already sick. 
+ 15 didn't infect 98 because vaccinated. 
+ 98 infects 10 because already sick. 
+ 10 didn't infect 98 because vaccinated. 
+ 98 infects 89 because already sick. 
+ 89 didn't infect 98 because vaccinated. 
+ 98 infects 20 because already sick. 
+ 20 didn't infect 98 because vaccinated. 
+ 98 infects 70 because already sick. 
+ 70 didn't infect 98 because vaccinated. 
+ 98 infects 5 because already sick. 
+ 5 didn't infect 98 because vaccinated. 
+ 98 infects 48 because already sick. 
+ 48 didn't infect 98 because vaccinated. 
+ 98 infects 75 because already sick. 
+ 75 didn't infect 98 because vaccinated. 
+ 98 infects 71 because already sick. 
+ 71 didn't infect 98 because vaccinated. 
+ 98 infects 19 because already sick. 
+ 19 didn't infect 98 because vaccinated. 
+ 98 infects 56 because already sick. 
+ 56 didn't infect 98 because vaccinated. 
+ 98 infects 17 because already sick. 
+ 17 didn't infect 98 because vaccinated. 
+ 98 infects 6 because already sick. 
+ 6 didn't infect 98 because vaccinated. 
+ 98 infects 40 because already sick. 
+ 40 didn't infect 98 because vaccinated. 
+ 98 infects 47 because already sick. 
+ 47 didn't infect 98 because vaccinated. 
+ 98 infects 6 because already sick. 
+ 6 didn't infect 98 because vaccinated. 
+ 98 infects 46 because already sick. 
+ 46 didn't infect 98 because vaccinated. 
+ 98 infects 27 because already sick. 
+ 27 didn't infect 98 because vaccinated. 
+ 98 infects 88 because already sick. 
+ 88 didn't infect 98 because vaccinated. 
+ 98 infects 32 because already sick. 
+ 32 didn't infect 98 because vaccinated. 
+ 98 infects 86 because already sick. 
+ 86 didn't infect 98 because vaccinated. 
+ 98 infects 14 because already sick. 
+ 14 didn't infect 98 because vaccinated. 
+ 98 infects 46 because already sick. 
+ 46 didn't infect 98 because vaccinated. 
+ 98 infects 100 because already sick. 
+ 98 infects 53 because already sick. 
+ 53 didn't infect 98 because vaccinated. 
+ 98 infects 80 because already sick. 
+ 80 didn't infect 98 because vaccinated. 
+ 98 infects 96 because already sick. 
+ 98 infects 31 because already sick. 
+ 31 didn't infect 98 because vaccinated. 
+ 98 infects 21 because already sick. 
+ 21 didn't infect 98 because vaccinated. 
+ 98 infects 23 because already sick. 
+ 23 didn't infect 98 because vaccinated. 
+ 98 infects 53 because already sick. 
+ 53 didn't infect 98 because vaccinated. 
+ 98 infects 4 because already sick. 
+ 4 didn't infect 98 because vaccinated. 
+ 98 infects 23 because already sick. 
+ 23 didn't infect 98 because vaccinated. 
+ 98 infects 95 because already sick. 
+ 95 infects 98 because already sick. 
+ 98 infects 43 because already sick. 
+ 43 didn't infect 98 because vaccinated. 
+ 98 infects 53 because already sick. 
+ 53 didn't infect 98 because vaccinated. 
+ 98 infects 86 because already sick. 
+ 86 didn't infect 98 because vaccinated. 
+ 98 infects 95 because already sick. 
+ 95 infects 98 because already sick. 
+ 98 infects 32 because already sick. 
+ 32 didn't infect 98 because vaccinated. 
+ 98 infects 35 because already sick. 
+ 35 didn't infect 98 because vaccinated. 
+ 98 infects 21 because already sick. 
+ 21 didn't infect 98 because vaccinated. 
+ 98 infects 90 because already sick. 
+ 90 didn't infect 98 because vaccinated. 
+ 98 infects 14 because already sick. 
+ 14 didn't infect 98 because vaccinated. 
+ 98 infects 49 because already sick. 
+ 49 didn't infect 98 because vaccinated. 
+ 98 infects 5 because already sick. 
+ 5 didn't infect 98 because vaccinated. 
+ 98 infects 61 because already sick. 
+ 61 didn't infect 98 because vaccinated. 
+ 98 infects 29 because already sick. 
+ 29 didn't infect 98 because vaccinated. 
+ 98 infects 26 because already sick. 
+ 26 didn't infect 98 because vaccinated. 
+ 98 infects 59 because already sick. 
+ 59 didn't infect 98 because vaccinated. 
+ 98 infects 45 because already sick. 
+ 45 didn't infect 98 because vaccinated. 
+ 98 infects 40 because already sick. 
+ 40 didn't infect 98 because vaccinated. 
+ 99 infects 30 because already sick. 
+ 30 didn't infect 99 because vaccinated. 
+ 99 infects 29 because already sick. 
+ 29 didn't infect 99 because vaccinated. 
+ 99 infects 4 because already sick. 
+ 4 didn't infect 99 because vaccinated. 
+ 99 infects 85 because already sick. 
+ 85 didn't infect 99 because vaccinated. 
+ 99 infects 25 because already sick. 
+ 25 didn't infect 99 because vaccinated. 
+ 99 infects 52 because already sick. 
+ 52 didn't infect 99 because vaccinated. 
+ 99 infects 43 because already sick. 
+ 43 didn't infect 99 because vaccinated. 
+ 99 infects 36 because already sick. 
+ 36 didn't infect 99 because vaccinated. 
+ 99 infects 9 because already sick. 
+ 9 didn't infect 99 because vaccinated. 
+ 99 infects 99 because already sick. 
+ 99 infects 99 because already sick. 
+ 99 infects 36 because already sick. 
+ 36 didn't infect 99 because vaccinated. 
+ 99 infects 45 because already sick. 
+ 45 didn't infect 99 because vaccinated. 
+ 99 infects 83 because already sick. 
+ 83 didn't infect 99 because vaccinated. 
+ 99 infects 66 because already sick. 
+ 66 didn't infect 99 because vaccinated. 
+ 99 infects 52 because already sick. 
+ 52 didn't infect 99 because vaccinated. 
+ 99 infects 87 because already sick. 
+ 87 didn't infect 99 because vaccinated. 
+ 99 infects 69 because already sick. 
+ 69 didn't infect 99 because vaccinated. 
+ 99 infects 43 because already sick. 
+ 43 didn't infect 99 because vaccinated. 
+ 99 infects 4 because already sick. 
+ 4 didn't infect 99 because vaccinated. 
+ 99 infects 15 because already sick. 
+ 15 didn't infect 99 because vaccinated. 
+ 99 infects 34 because already sick. 
+ 34 didn't infect 99 because vaccinated. 
+ 99 infects 23 because already sick. 
+ 23 didn't infect 99 because vaccinated. 
+ 99 infects 75 because already sick. 
+ 75 didn't infect 99 because vaccinated. 
+ 99 infects 34 because already sick. 
+ 34 didn't infect 99 because vaccinated. 
+ 99 infects 5 because already sick. 
+ 5 didn't infect 99 because vaccinated. 
+ 99 infects 14 because already sick. 
+ 14 didn't infect 99 because vaccinated. 
+ 99 infects 77 because already sick. 
+ 77 didn't infect 99 because vaccinated. 
+ 99 infects 56 because already sick. 
+ 56 didn't infect 99 because vaccinated. 
+ 99 infects 45 because already sick. 
+ 45 didn't infect 99 because vaccinated. 
+ 99 infects 94 because already sick. 
+ 94 infects 99 because already sick. 
+ 99 infects 41 because already sick. 
+ 41 didn't infect 99 because vaccinated. 
+ 99 infects 56 because already sick. 
+ 56 didn't infect 99 because vaccinated. 
+ 99 infects 78 because already sick. 
+ 78 didn't infect 99 because vaccinated. 
+ 99 infects 66 because already sick. 
+ 66 didn't infect 99 because vaccinated. 
+ 99 infects 15 because already sick. 
+ 15 didn't infect 99 because vaccinated. 
+ 99 infects 50 because already sick. 
+ 50 didn't infect 99 because vaccinated. 
+ 99 infects 74 because already sick. 
+ 74 didn't infect 99 because vaccinated. 
+ 99 infects 25 because already sick. 
+ 25 didn't infect 99 because vaccinated. 
+ 99 infects 33 because already sick. 
+ 33 didn't infect 99 because vaccinated. 
+ 99 infects 6 because already sick. 
+ 6 didn't infect 99 because vaccinated. 
+ 99 infects 91 because already sick. 
+ 91 didn't infect 99 because vaccinated. 
+ 99 infects 56 because already sick. 
+ 56 didn't infect 99 because vaccinated. 
+ 99 infects 67 because already sick. 
+ 67 didn't infect 99 because vaccinated. 
+ 99 infects 69 because already sick. 
+ 69 didn't infect 99 because vaccinated. 
+ 99 infects 88 because already sick. 
+ 88 didn't infect 99 because vaccinated. 
+ 99 infects 93 because already sick. 
+ 99 infects 95 because already sick. 
+ 95 infects 99 because already sick. 
+ 99 infects 86 because already sick. 
+ 86 didn't infect 99 because vaccinated. 
+ 99 infects 26 because already sick. 
+ 26 didn't infect 99 because vaccinated. 
+ 99 infects 47 because already sick. 
+ 47 didn't infect 99 because vaccinated. 
+ 99 infects 56 because already sick. 
+ 56 didn't infect 99 because vaccinated. 
+ 99 infects 9 because already sick. 
+ 9 didn't infect 99 because vaccinated. 
+ 99 infects 86 because already sick. 
+ 86 didn't infect 99 because vaccinated. 
+ 99 infects 43 because already sick. 
+ 43 didn't infect 99 because vaccinated. 
+ 99 infects 80 because already sick. 
+ 80 didn't infect 99 because vaccinated. 
+ 99 infects 41 because already sick. 
+ 41 didn't infect 99 because vaccinated. 
+ 99 infects 85 because already sick. 
+ 85 didn't infect 99 because vaccinated. 
+ 99 infects 16 because already sick. 
+ 16 didn't infect 99 because vaccinated. 
+ 99 infects 93 because already sick. 
+ 99 infects 65 because already sick. 
+ 65 didn't infect 99 because vaccinated. 
+ 99 infects 40 because already sick. 
+ 40 didn't infect 99 because vaccinated. 
+ 99 infects 86 because already sick. 
+ 86 didn't infect 99 because vaccinated. 
+ 99 infects 53 because already sick. 
+ 53 didn't infect 99 because vaccinated. 
+ 99 infects 42 because already sick. 
+ 42 didn't infect 99 because vaccinated. 
+ 99 infects 52 because already sick. 
+ 52 didn't infect 99 because vaccinated. 
+ 99 infects 90 because already sick. 
+ 90 didn't infect 99 because vaccinated. 
+ 99 infects 38 because already sick. 
+ 38 didn't infect 99 because vaccinated. 
+ 99 infects 71 because already sick. 
+ 71 didn't infect 99 because vaccinated. 
+ 99 infects 17 because already sick. 
+ 17 didn't infect 99 because vaccinated. 
+ 99 infects 25 because already sick. 
+ 25 didn't infect 99 because vaccinated. 
+ 99 infects 54 because already sick. 
+ 54 didn't infect 99 because vaccinated. 
+ 99 infects 86 because already sick. 
+ 86 didn't infect 99 because vaccinated. 
+ 99 infects 49 because already sick. 
+ 49 didn't infect 99 because vaccinated. 
+ 99 infects 87 because already sick. 
+ 87 didn't infect 99 because vaccinated. 
+ 99 infects 96 because already sick. 
+ 99 infects 79 because already sick. 
+ 79 didn't infect 99 because vaccinated. 
+ 99 infects 73 because already sick. 
+ 73 didn't infect 99 because vaccinated. 
+ 99 infects 39 because already sick. 
+ 39 didn't infect 99 because vaccinated. 
+ 99 infects 52 because already sick. 
+ 52 didn't infect 99 because vaccinated. 
+ 99 infects 71 because already sick. 
+ 71 didn't infect 99 because vaccinated. 
+ 99 infects 39 because already sick. 
+ 39 didn't infect 99 because vaccinated. 
+ 99 infects 37 because already sick. 
+ 37 didn't infect 99 because vaccinated. 
+ 99 infects 27 because already sick. 
+ 27 didn't infect 99 because vaccinated. 
+ 99 infects 56 because already sick. 
+ 56 didn't infect 99 because vaccinated. 
+ 99 infects 75 because already sick. 
+ 75 didn't infect 99 because vaccinated. 
+ 99 infects 78 because already sick. 
+ 78 didn't infect 99 because vaccinated. 
+ 99 infects 84 because already sick. 
+ 84 didn't infect 99 because vaccinated. 
+ 99 infects 42 because already sick. 
+ 42 didn't infect 99 because vaccinated. 
+ 99 infects 60 because already sick. 
+ 60 didn't infect 99 because vaccinated. 
+ 99 infects 57 because already sick. 
+ 57 didn't infect 99 because vaccinated. 
+ 99 infects 57 because already sick. 
+ 57 didn't infect 99 because vaccinated. 
+ 99 infects 87 because already sick. 
+ 87 didn't infect 99 because vaccinated. 
+ 99 infects 28 because already sick. 
+ 28 didn't infect 99 because vaccinated. 
+ 99 infects 66 because already sick. 
+ 66 didn't infect 99 because vaccinated. 
+ 99 infects 61 because already sick. 
+ 61 didn't infect 99 because vaccinated. 
+ 99 infects 95 because already sick. 
+ 95 infects 99 because already sick. 
+ 99 infects 22 because already sick. 
+ 22 didn't infect 99 because vaccinated. 
+ 99 infects 85 because already sick. 
+ 85 didn't infect 99 because vaccinated. 
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 96 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 98 survived infection and is now immune
+ Person ID: 99 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 96 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 98 survived infection and is now immune
+ Person ID: 99 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 96 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 98 survived infection and is now immune
+ Person ID: 99 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 96 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 99 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 96 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+==============TIME STEP==========================
+
+ ==============================================
+
+ Time step 2 has ended, starting time step 3
+
+ ==============================================
+ 93 infects 87 because already sick. 
+ 87 didn't infect 93 because vaccinated. 
+ 93 infects 40 because already sick. 
+ 40 didn't infect 93 because vaccinated. 
+ 93 infects 29 because already sick. 
+ 29 didn't infect 93 because vaccinated. 
+ 93 infects 26 because already sick. 
+ 26 didn't infect 93 because vaccinated. 
+ 93 infects 19 because already sick. 
+ 19 didn't infect 93 because vaccinated. 
+ 93 infects 4 because already sick. 
+ 4 didn't infect 93 because vaccinated. 
+ 93 infects 6 because already sick. 
+ 6 didn't infect 93 because vaccinated. 
+ 93 infects 32 because already sick. 
+ 32 didn't infect 93 because vaccinated. 
+ 93 infects 61 because already sick. 
+ 61 didn't infect 93 because vaccinated. 
+ 93 infects 79 because already sick. 
+ 79 didn't infect 93 because vaccinated. 
+ 93 infects 10 because already sick. 
+ 10 didn't infect 93 because vaccinated. 
+ 93 infects 59 because already sick. 
+ 59 didn't infect 93 because vaccinated. 
+ 93 infects 54 because already sick. 
+ 54 didn't infect 93 because vaccinated. 
+ 93 infects 81 because already sick. 
+ 81 didn't infect 93 because vaccinated. 
+ 93 infects 74 because already sick. 
+ 74 didn't infect 93 because vaccinated. 
+ 93 infects 25 because already sick. 
+ 25 didn't infect 93 because vaccinated. 
+ 93 infects 90 because already sick. 
+ 90 didn't infect 93 because vaccinated. 
+ 93 infects 50 because already sick. 
+ 50 didn't infect 93 because vaccinated. 
+ 93 infects 64 because already sick. 
+ 64 didn't infect 93 because vaccinated. 
+ 93 infects 52 because already sick. 
+ 52 didn't infect 93 because vaccinated. 
+ 93 infects 32 because already sick. 
+ 32 didn't infect 93 because vaccinated. 
+ 93 infects 19 because already sick. 
+ 19 didn't infect 93 because vaccinated. 
+ 93 infects 84 because already sick. 
+ 84 didn't infect 93 because vaccinated. 
+ 93 infects 89 because already sick. 
+ 89 didn't infect 93 because vaccinated. 
+ 93 infects 97 because already sick. 
+ 97 infects 93 because already sick. 
+ 93 infects 14 because already sick. 
+ 14 didn't infect 93 because vaccinated. 
+ 93 infects 100 because already sick. 
+ 100 infects 93 because already sick. 
+ 93 infects 55 because already sick. 
+ 55 didn't infect 93 because vaccinated. 
+ 93 infects 29 because already sick. 
+ 29 didn't infect 93 because vaccinated. 
+ 93 infects 23 because already sick. 
+ 23 didn't infect 93 because vaccinated. 
+ 93 infects 90 because already sick. 
+ 90 didn't infect 93 because vaccinated. 
+ 93 infects 67 because already sick. 
+ 67 didn't infect 93 because vaccinated. 
+ 93 infects 60 because already sick. 
+ 60 didn't infect 93 because vaccinated. 
+ 93 infects 7 because already sick. 
+ 7 didn't infect 93 because vaccinated. 
+ 93 infects 72 because already sick. 
+ 72 didn't infect 93 because vaccinated. 
+ 93 infects 32 because already sick. 
+ 32 didn't infect 93 because vaccinated. 
+ 93 infects 16 because already sick. 
+ 16 didn't infect 93 because vaccinated. 
+ 93 infects 59 because already sick. 
+ 59 didn't infect 93 because vaccinated. 
+ 93 infects 18 because already sick. 
+ 18 didn't infect 93 because vaccinated. 
+ 93 infects 60 because already sick. 
+ 60 didn't infect 93 because vaccinated. 
+ 93 infects 86 because already sick. 
+ 86 didn't infect 93 because vaccinated. 
+ 93 infects 68 because already sick. 
+ 68 didn't infect 93 because vaccinated. 
+ 93 infects 72 because already sick. 
+ 72 didn't infect 93 because vaccinated. 
+ 93 infects 77 because already sick. 
+ 77 didn't infect 93 because vaccinated. 
+ 93 infects 41 because already sick. 
+ 41 didn't infect 93 because vaccinated. 
+ 93 infects 97 because already sick. 
+ 97 infects 93 because already sick. 
+ 93 infects 57 because already sick. 
+ 57 didn't infect 93 because vaccinated. 
+ 93 infects 79 because already sick. 
+ 79 didn't infect 93 because vaccinated. 
+ 93 infects 93 because already sick. 
+ 93 infects 93 because already sick. 
+ 93 infects 65 because already sick. 
+ 65 didn't infect 93 because vaccinated. 
+ 93 infects 55 because already sick. 
+ 55 didn't infect 93 because vaccinated. 
+ 93 infects 71 because already sick. 
+ 71 didn't infect 93 because vaccinated. 
+ 93 infects 58 because already sick. 
+ 58 didn't infect 93 because vaccinated. 
+ 93 infects 21 because already sick. 
+ 21 didn't infect 93 because vaccinated. 
+ 93 infects 96 because already sick. 
+ 96 infects 93 because already sick. 
+ 93 infects 61 because already sick. 
+ 61 didn't infect 93 because vaccinated. 
+ 93 infects 58 because already sick. 
+ 58 didn't infect 93 because vaccinated. 
+ 93 infects 34 because already sick. 
+ 34 didn't infect 93 because vaccinated. 
+ 93 infects 97 because already sick. 
+ 97 infects 93 because already sick. 
+ 93 infects 32 because already sick. 
+ 32 didn't infect 93 because vaccinated. 
+ 93 infects 82 because already sick. 
+ 82 didn't infect 93 because vaccinated. 
+ 93 infects 36 because already sick. 
+ 36 didn't infect 93 because vaccinated. 
+ 93 infects 100 because already sick. 
+ 100 infects 93 because already sick. 
+ 93 infects 67 because already sick. 
+ 67 didn't infect 93 because vaccinated. 
+ 93 infects 63 because already sick. 
+ 63 didn't infect 93 because vaccinated. 
+ 93 infects 81 because already sick. 
+ 81 didn't infect 93 because vaccinated. 
+ 93 infects 31 because already sick. 
+ 31 didn't infect 93 because vaccinated. 
+ 93 infects 36 because already sick. 
+ 36 didn't infect 93 because vaccinated. 
+ 93 infects 57 because already sick. 
+ 57 didn't infect 93 because vaccinated. 
+ 93 infects 10 because already sick. 
+ 10 didn't infect 93 because vaccinated. 
+ 93 infects 37 because already sick. 
+ 37 didn't infect 93 because vaccinated. 
+ 93 infects 31 because already sick. 
+ 31 didn't infect 93 because vaccinated. 
+ 93 infects 35 because already sick. 
+ 35 didn't infect 93 because vaccinated. 
+ 93 infects 43 because already sick. 
+ 43 didn't infect 93 because vaccinated. 
+ 93 infects 41 because already sick. 
+ 41 didn't infect 93 because vaccinated. 
+ 93 infects 70 because already sick. 
+ 70 didn't infect 93 because vaccinated. 
+ 93 infects 11 because already sick. 
+ 11 didn't infect 93 because vaccinated. 
+ 93 infects 18 because already sick. 
+ 18 didn't infect 93 because vaccinated. 
+ 93 infects 20 because already sick. 
+ 20 didn't infect 93 because vaccinated. 
+ 93 infects 30 because already sick. 
+ 30 didn't infect 93 because vaccinated. 
+ 93 infects 50 because already sick. 
+ 50 didn't infect 93 because vaccinated. 
+ 93 infects 89 because already sick. 
+ 89 didn't infect 93 because vaccinated. 
+ 93 infects 20 because already sick. 
+ 20 didn't infect 93 because vaccinated. 
+ 93 infects 91 because already sick. 
+ 91 didn't infect 93 because vaccinated. 
+ 93 infects 28 because already sick. 
+ 28 didn't infect 93 because vaccinated. 
+ 93 infects 9 because already sick. 
+ 9 didn't infect 93 because vaccinated. 
+ 93 infects 54 because already sick. 
+ 54 didn't infect 93 because vaccinated. 
+ 93 infects 53 because already sick. 
+ 53 didn't infect 93 because vaccinated. 
+ 93 infects 43 because already sick. 
+ 43 didn't infect 93 because vaccinated. 
+ 93 infects 70 because already sick. 
+ 70 didn't infect 93 because vaccinated. 
+ 93 infects 60 because already sick. 
+ 60 didn't infect 93 because vaccinated. 
+ 93 infects 54 because already sick. 
+ 54 didn't infect 93 because vaccinated. 
+ 93 infects 8 because already sick. 
+ 8 didn't infect 93 because vaccinated. 
+ 93 infects 27 because already sick. 
+ 27 didn't infect 93 because vaccinated. 
+ 96 infects 54 because already sick. 
+ 54 didn't infect 96 because vaccinated. 
+ 96 infects 50 because already sick. 
+ 50 didn't infect 96 because vaccinated. 
+ 96 infects 75 because already sick. 
+ 75 didn't infect 96 because vaccinated. 
+ 96 infects 90 because already sick. 
+ 90 didn't infect 96 because vaccinated. 
+ 96 infects 3 because already sick. 
+ 3 didn't infect 96 because vaccinated. 
+ 96 infects 74 because already sick. 
+ 74 didn't infect 96 because vaccinated. 
+ 96 infects 49 because already sick. 
+ 49 didn't infect 96 because vaccinated. 
+ 96 infects 62 because already sick. 
+ 62 didn't infect 96 because vaccinated. 
+ 96 infects 46 because already sick. 
+ 46 didn't infect 96 because vaccinated. 
+ 96 infects 39 because already sick. 
+ 39 didn't infect 96 because vaccinated. 
+ 96 infects 97 because already sick. 
+ 97 infects 96 because already sick. 
+ 96 infects 50 because already sick. 
+ 50 didn't infect 96 because vaccinated. 
+ 96 infects 54 because already sick. 
+ 54 didn't infect 96 because vaccinated. 
+ 96 infects 69 because already sick. 
+ 69 didn't infect 96 because vaccinated. 
+ 96 infects 96 because already sick. 
+ 96 infects 96 because already sick. 
+ 96 infects 95 because already sick. 
+ 95 didn't infect 96 because vaccinated. 
+ 96 infects 70 because already sick. 
+ 70 didn't infect 96 because vaccinated. 
+ 96 infects 78 because already sick. 
+ 78 didn't infect 96 because vaccinated. 
+ 96 infects 29 because already sick. 
+ 29 didn't infect 96 because vaccinated. 
+ 96 infects 63 because already sick. 
+ 63 didn't infect 96 because vaccinated. 
+ 96 infects 29 because already sick. 
+ 29 didn't infect 96 because vaccinated. 
+ 96 infects 35 because already sick. 
+ 35 didn't infect 96 because vaccinated. 
+ 96 infects 56 because already sick. 
+ 56 didn't infect 96 because vaccinated. 
+ 96 infects 63 because already sick. 
+ 63 didn't infect 96 because vaccinated. 
+ 96 infects 4 because already sick. 
+ 4 didn't infect 96 because vaccinated. 
+ 96 infects 50 because already sick. 
+ 50 didn't infect 96 because vaccinated. 
+ 96 infects 44 because already sick. 
+ 44 didn't infect 96 because vaccinated. 
+ 96 infects 86 because already sick. 
+ 86 didn't infect 96 because vaccinated. 
+ 96 infects 87 because already sick. 
+ 87 didn't infect 96 because vaccinated. 
+ 96 infects 52 because already sick. 
+ 52 didn't infect 96 because vaccinated. 
+ 96 infects 93 because already sick. 
+ 93 infects 96 because already sick. 
+ 96 infects 22 because already sick. 
+ 22 didn't infect 96 because vaccinated. 
+ 96 infects 60 because already sick. 
+ 60 didn't infect 96 because vaccinated. 
+ 96 infects 17 because already sick. 
+ 17 didn't infect 96 because vaccinated. 
+ 96 infects 80 because already sick. 
+ 80 didn't infect 96 because vaccinated. 
+ 96 infects 69 because already sick. 
+ 69 didn't infect 96 because vaccinated. 
+ 96 infects 4 because already sick. 
+ 4 didn't infect 96 because vaccinated. 
+ 96 infects 51 because already sick. 
+ 51 didn't infect 96 because vaccinated. 
+ 96 infects 76 because already sick. 
+ 76 didn't infect 96 because vaccinated. 
+ 96 infects 73 because already sick. 
+ 73 didn't infect 96 because vaccinated. 
+ 96 infects 85 because already sick. 
+ 85 didn't infect 96 because vaccinated. 
+ 96 infects 4 because already sick. 
+ 4 didn't infect 96 because vaccinated. 
+ 96 infects 11 because already sick. 
+ 11 didn't infect 96 because vaccinated. 
+ 96 infects 83 because already sick. 
+ 83 didn't infect 96 because vaccinated. 
+ 96 infects 55 because already sick. 
+ 55 didn't infect 96 because vaccinated. 
+ 96 infects 18 because already sick. 
+ 18 didn't infect 96 because vaccinated. 
+ 96 infects 60 because already sick. 
+ 60 didn't infect 96 because vaccinated. 
+ 96 infects 24 because already sick. 
+ 24 didn't infect 96 because vaccinated. 
+ 96 infects 7 because already sick. 
+ 7 didn't infect 96 because vaccinated. 
+ 96 infects 34 because already sick. 
+ 34 didn't infect 96 because vaccinated. 
+ 96 infects 49 because already sick. 
+ 49 didn't infect 96 because vaccinated. 
+ 96 infects 42 because already sick. 
+ 42 didn't infect 96 because vaccinated. 
+ 96 infects 28 because already sick. 
+ 28 didn't infect 96 because vaccinated. 
+ 96 infects 59 because already sick. 
+ 59 didn't infect 96 because vaccinated. 
+ 96 infects 42 because already sick. 
+ 42 didn't infect 96 because vaccinated. 
+ 96 infects 44 because already sick. 
+ 44 didn't infect 96 because vaccinated. 
+ 96 infects 49 because already sick. 
+ 49 didn't infect 96 because vaccinated. 
+ 96 infects 36 because already sick. 
+ 36 didn't infect 96 because vaccinated. 
+ 96 infects 97 because already sick. 
+ 97 infects 96 because already sick. 
+ 96 infects 54 because already sick. 
+ 54 didn't infect 96 because vaccinated. 
+ 96 infects 33 because already sick. 
+ 33 didn't infect 96 because vaccinated. 
+ 96 infects 11 because already sick. 
+ 11 didn't infect 96 because vaccinated. 
+ 96 infects 61 because already sick. 
+ 61 didn't infect 96 because vaccinated. 
+ 96 infects 3 because already sick. 
+ 3 didn't infect 96 because vaccinated. 
+ 96 infects 96 because already sick. 
+ 96 infects 96 because already sick. 
+ 96 infects 70 because already sick. 
+ 70 didn't infect 96 because vaccinated. 
+ 96 infects 7 because already sick. 
+ 7 didn't infect 96 because vaccinated. 
+ 96 infects 45 because already sick. 
+ 45 didn't infect 96 because vaccinated. 
+ 96 infects 29 because already sick. 
+ 29 didn't infect 96 because vaccinated. 
+ 96 infects 84 because already sick. 
+ 84 didn't infect 96 because vaccinated. 
+ 96 infects 9 because already sick. 
+ 9 didn't infect 96 because vaccinated. 
+ 96 infects 100 because already sick. 
+ 100 infects 96 because already sick. 
+ 96 infects 84 because already sick. 
+ 84 didn't infect 96 because vaccinated. 
+ 96 infects 6 because already sick. 
+ 6 didn't infect 96 because vaccinated. 
+ 96 infects 97 because already sick. 
+ 97 infects 96 because already sick. 
+ 96 infects 4 because already sick. 
+ 4 didn't infect 96 because vaccinated. 
+ 96 infects 32 because already sick. 
+ 32 didn't infect 96 because vaccinated. 
+ 96 infects 26 because already sick. 
+ 26 didn't infect 96 because vaccinated. 
+ 96 infects 3 because already sick. 
+ 3 didn't infect 96 because vaccinated. 
+ 96 infects 80 because already sick. 
+ 80 didn't infect 96 because vaccinated. 
+ 96 infects 20 because already sick. 
+ 20 didn't infect 96 because vaccinated. 
+ 96 infects 31 because already sick. 
+ 31 didn't infect 96 because vaccinated. 
+ 96 infects 17 because already sick. 
+ 17 didn't infect 96 because vaccinated. 
+ 96 infects 61 because already sick. 
+ 61 didn't infect 96 because vaccinated. 
+ 96 infects 86 because already sick. 
+ 86 didn't infect 96 because vaccinated. 
+ 96 infects 15 because already sick. 
+ 15 didn't infect 96 because vaccinated. 
+ 96 infects 73 because already sick. 
+ 73 didn't infect 96 because vaccinated. 
+ 96 infects 28 because already sick. 
+ 28 didn't infect 96 because vaccinated. 
+ 96 infects 60 because already sick. 
+ 60 didn't infect 96 because vaccinated. 
+ 96 infects 90 because already sick. 
+ 90 didn't infect 96 because vaccinated. 
+ 96 infects 33 because already sick. 
+ 33 didn't infect 96 because vaccinated. 
+ 96 infects 48 because already sick. 
+ 48 didn't infect 96 because vaccinated. 
+ 96 infects 22 because already sick. 
+ 22 didn't infect 96 because vaccinated. 
+ 96 infects 78 because already sick. 
+ 78 didn't infect 96 because vaccinated. 
+ 96 infects 78 because already sick. 
+ 78 didn't infect 96 because vaccinated. 
+ 97 infects 96 because already sick. 
+ 96 infects 97 because already sick. 
+ 97 infects 15 because already sick. 
+ 15 didn't infect 97 because vaccinated. 
+ 97 infects 100 because already sick. 
+ 100 infects 97 because already sick. 
+ 97 infects 21 because already sick. 
+ 21 didn't infect 97 because vaccinated. 
+ 97 infects 40 because already sick. 
+ 40 didn't infect 97 because vaccinated. 
+ 97 infects 14 because already sick. 
+ 14 didn't infect 97 because vaccinated. 
+ 97 infects 75 because already sick. 
+ 75 didn't infect 97 because vaccinated. 
+ 97 infects 4 because already sick. 
+ 4 didn't infect 97 because vaccinated. 
+ 97 infects 40 because already sick. 
+ 40 didn't infect 97 because vaccinated. 
+ 97 infects 74 because already sick. 
+ 74 didn't infect 97 because vaccinated. 
+ 97 infects 87 because already sick. 
+ 87 didn't infect 97 because vaccinated. 
+ 97 infects 49 because already sick. 
+ 49 didn't infect 97 because vaccinated. 
+ 97 infects 51 because already sick. 
+ 51 didn't infect 97 because vaccinated. 
+ 97 infects 26 because already sick. 
+ 26 didn't infect 97 because vaccinated. 
+ 97 infects 10 because already sick. 
+ 10 didn't infect 97 because vaccinated. 
+ 97 infects 76 because already sick. 
+ 76 didn't infect 97 because vaccinated. 
+ 97 infects 89 because already sick. 
+ 89 didn't infect 97 because vaccinated. 
+ 97 infects 81 because already sick. 
+ 81 didn't infect 97 because vaccinated. 
+ 97 infects 32 because already sick. 
+ 32 didn't infect 97 because vaccinated. 
+ 97 infects 14 because already sick. 
+ 14 didn't infect 97 because vaccinated. 
+ 97 infects 90 because already sick. 
+ 90 didn't infect 97 because vaccinated. 
+ 97 infects 39 because already sick. 
+ 39 didn't infect 97 because vaccinated. 
+ 97 infects 88 because already sick. 
+ 88 didn't infect 97 because vaccinated. 
+ 97 infects 77 because already sick. 
+ 77 didn't infect 97 because vaccinated. 
+ 97 infects 16 because already sick. 
+ 16 didn't infect 97 because vaccinated. 
+ 97 infects 73 because already sick. 
+ 73 didn't infect 97 because vaccinated. 
+ 97 infects 6 because already sick. 
+ 6 didn't infect 97 because vaccinated. 
+ 97 infects 45 because already sick. 
+ 45 didn't infect 97 because vaccinated. 
+ 97 infects 69 because already sick. 
+ 69 didn't infect 97 because vaccinated. 
+ 97 infects 55 because already sick. 
+ 55 didn't infect 97 because vaccinated. 
+ 97 infects 85 because already sick. 
+ 85 didn't infect 97 because vaccinated. 
+ 97 infects 48 because already sick. 
+ 48 didn't infect 97 because vaccinated. 
+ 97 infects 9 because already sick. 
+ 9 didn't infect 97 because vaccinated. 
+ 97 infects 65 because already sick. 
+ 65 didn't infect 97 because vaccinated. 
+ 97 infects 83 because already sick. 
+ 83 didn't infect 97 because vaccinated. 
+ 97 infects 44 because already sick. 
+ 44 didn't infect 97 because vaccinated. 
+ 97 infects 2 because already sick. 
+ 2 didn't infect 97 because vaccinated. 
+ 97 infects 54 because already sick. 
+ 54 didn't infect 97 because vaccinated. 
+ 97 infects 63 because already sick. 
+ 63 didn't infect 97 because vaccinated. 
+ 97 infects 14 because already sick. 
+ 14 didn't infect 97 because vaccinated. 
+ 97 infects 56 because already sick. 
+ 56 didn't infect 97 because vaccinated. 
+ 97 infects 47 because already sick. 
+ 47 didn't infect 97 because vaccinated. 
+ 97 infects 82 because already sick. 
+ 82 didn't infect 97 because vaccinated. 
+ 97 infects 59 because already sick. 
+ 59 didn't infect 97 because vaccinated. 
+ 97 infects 91 because already sick. 
+ 91 didn't infect 97 because vaccinated. 
+ 97 infects 20 because already sick. 
+ 20 didn't infect 97 because vaccinated. 
+ 97 infects 56 because already sick. 
+ 56 didn't infect 97 because vaccinated. 
+ 97 infects 23 because already sick. 
+ 23 didn't infect 97 because vaccinated. 
+ 97 infects 94 because already sick. 
+ 94 didn't infect 97 because vaccinated. 
+ 97 infects 67 because already sick. 
+ 67 didn't infect 97 because vaccinated. 
+ 97 infects 84 because already sick. 
+ 84 didn't infect 97 because vaccinated. 
+ 97 infects 35 because already sick. 
+ 35 didn't infect 97 because vaccinated. 
+ 97 infects 79 because already sick. 
+ 79 didn't infect 97 because vaccinated. 
+ 97 infects 69 because already sick. 
+ 69 didn't infect 97 because vaccinated. 
+ 97 infects 100 because already sick. 
+ 100 infects 97 because already sick. 
+ 97 infects 62 because already sick. 
+ 62 didn't infect 97 because vaccinated. 
+ 97 infects 60 because already sick. 
+ 60 didn't infect 97 because vaccinated. 
+ 97 infects 56 because already sick. 
+ 56 didn't infect 97 because vaccinated. 
+ 97 infects 94 because already sick. 
+ 94 didn't infect 97 because vaccinated. 
+ 97 infects 76 because already sick. 
+ 76 didn't infect 97 because vaccinated. 
+ 97 infects 35 because already sick. 
+ 35 didn't infect 97 because vaccinated. 
+ 97 infects 42 because already sick. 
+ 42 didn't infect 97 because vaccinated. 
+ 97 infects 32 because already sick. 
+ 32 didn't infect 97 because vaccinated. 
+ 97 infects 12 because already sick. 
+ 12 didn't infect 97 because vaccinated. 
+ 97 infects 36 because already sick. 
+ 36 didn't infect 97 because vaccinated. 
+ 97 infects 58 because already sick. 
+ 58 didn't infect 97 because vaccinated. 
+ 97 infects 32 because already sick. 
+ 32 didn't infect 97 because vaccinated. 
+ 97 infects 97 because already sick. 
+ 97 infects 97 because already sick. 
+ 97 infects 60 because already sick. 
+ 60 didn't infect 97 because vaccinated. 
+ 97 infects 73 because already sick. 
+ 73 didn't infect 97 because vaccinated. 
+ 97 infects 79 because already sick. 
+ 79 didn't infect 97 because vaccinated. 
+ 97 infects 86 because already sick. 
+ 86 didn't infect 97 because vaccinated. 
+ 97 infects 49 because already sick. 
+ 49 didn't infect 97 because vaccinated. 
+ 97 infects 44 because already sick. 
+ 44 didn't infect 97 because vaccinated. 
+ 97 infects 4 because already sick. 
+ 4 didn't infect 97 because vaccinated. 
+ 97 infects 64 because already sick. 
+ 64 didn't infect 97 because vaccinated. 
+ 97 infects 42 because already sick. 
+ 42 didn't infect 97 because vaccinated. 
+ 97 infects 24 because already sick. 
+ 24 didn't infect 97 because vaccinated. 
+ 97 infects 63 because already sick. 
+ 63 didn't infect 97 because vaccinated. 
+ 97 infects 28 because already sick. 
+ 28 didn't infect 97 because vaccinated. 
+ 97 infects 46 because already sick. 
+ 46 didn't infect 97 because vaccinated. 
+ 97 infects 34 because already sick. 
+ 34 didn't infect 97 because vaccinated. 
+ 97 infects 44 because already sick. 
+ 44 didn't infect 97 because vaccinated. 
+ 97 infects 36 because already sick. 
+ 36 didn't infect 97 because vaccinated. 
+ 97 infects 77 because already sick. 
+ 77 didn't infect 97 because vaccinated. 
+ 97 infects 90 because already sick. 
+ 90 didn't infect 97 because vaccinated. 
+ 97 infects 36 because already sick. 
+ 36 didn't infect 97 because vaccinated. 
+ 97 infects 72 because already sick. 
+ 72 didn't infect 97 because vaccinated. 
+ 97 infects 2 because already sick. 
+ 2 didn't infect 97 because vaccinated. 
+ 97 infects 67 because already sick. 
+ 67 didn't infect 97 because vaccinated. 
+ 97 infects 25 because already sick. 
+ 25 didn't infect 97 because vaccinated. 
+ 97 infects 11 because already sick. 
+ 11 didn't infect 97 because vaccinated. 
+ 97 infects 31 because already sick. 
+ 31 didn't infect 97 because vaccinated. 
+ 97 infects 93 because already sick. 
+ 93 infects 97 because already sick. 
+ 97 infects 53 because already sick. 
+ 53 didn't infect 97 because vaccinated. 
+ 97 infects 63 because already sick. 
+ 63 didn't infect 97 because vaccinated. 
+ 97 infects 72 because already sick. 
+ 72 didn't infect 97 because vaccinated. 
+ 100 infects 31 because already sick. 
+ 31 didn't infect 100 because vaccinated. 
+ 100 infects 89 because already sick. 
+ 89 didn't infect 100 because vaccinated. 
+ 100 infects 61 because already sick. 
+ 61 didn't infect 100 because vaccinated. 
+ 100 infects 83 because already sick. 
+ 83 didn't infect 100 because vaccinated. 
+ 100 infects 63 because already sick. 
+ 63 didn't infect 100 because vaccinated. 
+ 100 infects 58 because already sick. 
+ 58 didn't infect 100 because vaccinated. 
+ 100 infects 3 because already sick. 
+ 3 didn't infect 100 because vaccinated. 
+ 100 infects 12 because already sick. 
+ 12 didn't infect 100 because vaccinated. 
+ 100 infects 38 because already sick. 
+ 38 didn't infect 100 because vaccinated. 
+ 100 infects 29 because already sick. 
+ 29 didn't infect 100 because vaccinated. 
+ 100 infects 52 because already sick. 
+ 52 didn't infect 100 because vaccinated. 
+ 100 infects 89 because already sick. 
+ 89 didn't infect 100 because vaccinated. 
+ 100 infects 32 because already sick. 
+ 32 didn't infect 100 because vaccinated. 
+ 100 infects 40 because already sick. 
+ 40 didn't infect 100 because vaccinated. 
+ 100 infects 85 because already sick. 
+ 85 didn't infect 100 because vaccinated. 
+ 100 infects 75 because already sick. 
+ 75 didn't infect 100 because vaccinated. 
+ 100 infects 48 because already sick. 
+ 48 didn't infect 100 because vaccinated. 
+ 100 infects 61 because already sick. 
+ 61 didn't infect 100 because vaccinated. 
+ 100 infects 71 because already sick. 
+ 71 didn't infect 100 because vaccinated. 
+ 100 infects 68 because already sick. 
+ 68 didn't infect 100 because vaccinated. 
+ 100 infects 45 because already sick. 
+ 45 didn't infect 100 because vaccinated. 
+ 100 infects 55 because already sick. 
+ 55 didn't infect 100 because vaccinated. 
+ 100 infects 96 because already sick. 
+ 96 infects 100 because already sick. 
+ 100 infects 71 because already sick. 
+ 71 didn't infect 100 because vaccinated. 
+ 100 infects 43 because already sick. 
+ 43 didn't infect 100 because vaccinated. 
+ 100 infects 46 because already sick. 
+ 46 didn't infect 100 because vaccinated. 
+ 100 infects 90 because already sick. 
+ 90 didn't infect 100 because vaccinated. 
+ 100 infects 59 because already sick. 
+ 59 didn't infect 100 because vaccinated. 
+ 100 infects 35 because already sick. 
+ 35 didn't infect 100 because vaccinated. 
+ 100 infects 40 because already sick. 
+ 40 didn't infect 100 because vaccinated. 
+ 100 infects 33 because already sick. 
+ 33 didn't infect 100 because vaccinated. 
+ 100 infects 30 because already sick. 
+ 30 didn't infect 100 because vaccinated. 
+ 100 infects 16 because already sick. 
+ 16 didn't infect 100 because vaccinated. 
+ 100 infects 93 because already sick. 
+ 93 infects 100 because already sick. 
+ 100 infects 25 because already sick. 
+ 25 didn't infect 100 because vaccinated. 
+ 100 infects 41 because already sick. 
+ 41 didn't infect 100 because vaccinated. 
+ 100 infects 16 because already sick. 
+ 16 didn't infect 100 because vaccinated. 
+ 100 infects 96 because already sick. 
+ 96 infects 100 because already sick. 
+ 100 infects 69 because already sick. 
+ 69 didn't infect 100 because vaccinated. 
+ 100 infects 89 because already sick. 
+ 89 didn't infect 100 because vaccinated. 
+ 100 infects 24 because already sick. 
+ 24 didn't infect 100 because vaccinated. 
+ 100 infects 25 because already sick. 
+ 25 didn't infect 100 because vaccinated. 
+ 100 infects 28 because already sick. 
+ 28 didn't infect 100 because vaccinated. 
+ 100 infects 95 because already sick. 
+ 95 didn't infect 100 because vaccinated. 
+ 100 infects 62 because already sick. 
+ 62 didn't infect 100 because vaccinated. 
+ 100 infects 36 because already sick. 
+ 36 didn't infect 100 because vaccinated. 
+ 100 infects 93 because already sick. 
+ 93 infects 100 because already sick. 
+ 100 infects 76 because already sick. 
+ 76 didn't infect 100 because vaccinated. 
+ 100 infects 68 because already sick. 
+ 68 didn't infect 100 because vaccinated. 
+ 100 infects 77 because already sick. 
+ 77 didn't infect 100 because vaccinated. 
+ 100 infects 37 because already sick. 
+ 37 didn't infect 100 because vaccinated. 
+ 100 infects 13 because already sick. 
+ 13 didn't infect 100 because vaccinated. 
+ 100 infects 25 because already sick. 
+ 25 didn't infect 100 because vaccinated. 
+ 100 infects 38 because already sick. 
+ 38 didn't infect 100 because vaccinated. 
+ 100 infects 30 because already sick. 
+ 30 didn't infect 100 because vaccinated. 
+ 100 infects 47 because already sick. 
+ 47 didn't infect 100 because vaccinated. 
+ 100 infects 23 because already sick. 
+ 23 didn't infect 100 because vaccinated. 
+ 100 infects 39 because already sick. 
+ 39 didn't infect 100 because vaccinated. 
+ 100 infects 2 because already sick. 
+ 2 didn't infect 100 because vaccinated. 
+ 100 infects 91 because already sick. 
+ 91 didn't infect 100 because vaccinated. 
+ 100 infects 69 because already sick. 
+ 69 didn't infect 100 because vaccinated. 
+ 100 infects 17 because already sick. 
+ 17 didn't infect 100 because vaccinated. 
+ 100 infects 36 because already sick. 
+ 36 didn't infect 100 because vaccinated. 
+ 100 infects 6 because already sick. 
+ 6 didn't infect 100 because vaccinated. 
+ 100 infects 7 because already sick. 
+ 7 didn't infect 100 because vaccinated. 
+ 100 infects 71 because already sick. 
+ 71 didn't infect 100 because vaccinated. 
+ 100 infects 38 because already sick. 
+ 38 didn't infect 100 because vaccinated. 
+ 100 infects 90 because already sick. 
+ 90 didn't infect 100 because vaccinated. 
+ 100 infects 17 because already sick. 
+ 17 didn't infect 100 because vaccinated. 
+ 100 infects 82 because already sick. 
+ 82 didn't infect 100 because vaccinated. 
+ 100 infects 97 because already sick. 
+ 97 infects 100 because already sick. 
+ 100 infects 63 because already sick. 
+ 63 didn't infect 100 because vaccinated. 
+ 100 infects 14 because already sick. 
+ 14 didn't infect 100 because vaccinated. 
+ 100 infects 2 because already sick. 
+ 2 didn't infect 100 because vaccinated. 
+ 100 infects 74 because already sick. 
+ 74 didn't infect 100 because vaccinated. 
+ 100 infects 37 because already sick. 
+ 37 didn't infect 100 because vaccinated. 
+ 100 infects 61 because already sick. 
+ 61 didn't infect 100 because vaccinated. 
+ 100 infects 62 because already sick. 
+ 62 didn't infect 100 because vaccinated. 
+ 100 infects 57 because already sick. 
+ 57 didn't infect 100 because vaccinated. 
+ 100 infects 44 because already sick. 
+ 44 didn't infect 100 because vaccinated. 
+ 100 infects 24 because already sick. 
+ 24 didn't infect 100 because vaccinated. 
+ 100 infects 7 because already sick. 
+ 7 didn't infect 100 because vaccinated. 
+ 100 infects 33 because already sick. 
+ 33 didn't infect 100 because vaccinated. 
+ 100 infects 62 because already sick. 
+ 62 didn't infect 100 because vaccinated. 
+ 100 infects 15 because already sick. 
+ 15 didn't infect 100 because vaccinated. 
+ 100 infects 9 because already sick. 
+ 9 didn't infect 100 because vaccinated. 
+ 100 infects 52 because already sick. 
+ 52 didn't infect 100 because vaccinated. 
+ 100 infects 63 because already sick. 
+ 63 didn't infect 100 because vaccinated. 
+ 100 infects 10 because already sick. 
+ 10 didn't infect 100 because vaccinated. 
+ 100 infects 74 because already sick. 
+ 74 didn't infect 100 because vaccinated. 
+ 100 infects 81 because already sick. 
+ 81 didn't infect 100 because vaccinated. 
+ 100 infects 88 because already sick. 
+ 88 didn't infect 100 because vaccinated. 
+ 100 infects 7 because already sick. 
+ 7 didn't infect 100 because vaccinated. 
+ 100 infects 20 because already sick. 
+ 20 didn't infect 100 because vaccinated. 
+ 100 infects 20 because already sick. 
+ 20 didn't infect 100 because vaccinated. 
+ 100 infects 73 because already sick. 
+ 73 didn't infect 100 because vaccinated. 
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 96 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 97 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 100 survived infection and is now immune
+ Person ID: 100 died from infection.
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 11 survived infection and is now immune
+ Person ID: 12 survived infection and is now immune
+ Person ID: 13 survived infection and is now immune
+ Person ID: 14 survived infection and is now immune
+ Person ID: 15 survived infection and is now immune
+ Person ID: 16 survived infection and is now immune
+ Person ID: 17 survived infection and is now immune
+ Person ID: 18 survived infection and is now immune
+ Person ID: 19 survived infection and is now immune
+ Person ID: 20 survived infection and is now immune
+ Person ID: 21 survived infection and is now immune
+ Person ID: 22 survived infection and is now immune
+ Person ID: 23 survived infection and is now immune
+ Person ID: 24 survived infection and is now immune
+ Person ID: 25 survived infection and is now immune
+ Person ID: 26 survived infection and is now immune
+ Person ID: 27 survived infection and is now immune
+ Person ID: 28 survived infection and is now immune
+ Person ID: 29 survived infection and is now immune
+ Person ID: 30 survived infection and is now immune
+ Person ID: 31 survived infection and is now immune
+ Person ID: 32 survived infection and is now immune
+ Person ID: 33 survived infection and is now immune
+ Person ID: 34 survived infection and is now immune
+ Person ID: 35 survived infection and is now immune
+ Person ID: 36 survived infection and is now immune
+ Person ID: 37 survived infection and is now immune
+ Person ID: 38 survived infection and is now immune
+ Person ID: 39 survived infection and is now immune
+ Person ID: 40 survived infection and is now immune
+ Person ID: 41 survived infection and is now immune
+ Person ID: 42 survived infection and is now immune
+ Person ID: 43 survived infection and is now immune
+ Person ID: 44 survived infection and is now immune
+ Person ID: 45 survived infection and is now immune
+ Person ID: 46 survived infection and is now immune
+ Person ID: 47 survived infection and is now immune
+ Person ID: 48 survived infection and is now immune
+ Person ID: 49 survived infection and is now immune
+ Person ID: 50 survived infection and is now immune
+ Person ID: 51 survived infection and is now immune
+ Person ID: 52 survived infection and is now immune
+ Person ID: 53 survived infection and is now immune
+ Person ID: 54 survived infection and is now immune
+ Person ID: 55 survived infection and is now immune
+ Person ID: 56 survived infection and is now immune
+ Person ID: 57 survived infection and is now immune
+ Person ID: 58 survived infection and is now immune
+ Person ID: 59 survived infection and is now immune
+ Person ID: 60 survived infection and is now immune
+ Person ID: 61 survived infection and is now immune
+ Person ID: 62 survived infection and is now immune
+ Person ID: 63 survived infection and is now immune
+ Person ID: 64 survived infection and is now immune
+ Person ID: 65 survived infection and is now immune
+ Person ID: 66 survived infection and is now immune
+ Person ID: 67 survived infection and is now immune
+ Person ID: 68 survived infection and is now immune
+ Person ID: 69 survived infection and is now immune
+ Person ID: 70 survived infection and is now immune
+ Person ID: 71 survived infection and is now immune
+ Person ID: 72 survived infection and is now immune
+ Person ID: 73 survived infection and is now immune
+ Person ID: 74 survived infection and is now immune
+ Person ID: 75 survived infection and is now immune
+ Person ID: 76 survived infection and is now immune
+ Person ID: 77 survived infection and is now immune
+ Person ID: 78 survived infection and is now immune
+ Person ID: 79 survived infection and is now immune
+ Person ID: 80 survived infection and is now immune
+ Person ID: 81 survived infection and is now immune
+ Person ID: 82 survived infection and is now immune
+ Person ID: 83 survived infection and is now immune
+ Person ID: 84 survived infection and is now immune
+ Person ID: 85 survived infection and is now immune
+ Person ID: 86 survived infection and is now immune
+ Person ID: 87 survived infection and is now immune
+ Person ID: 88 survived infection and is now immune
+ Person ID: 89 survived infection and is now immune
+ Person ID: 90 survived infection and is now immune
+ Person ID: 91 survived infection and is now immune
+ Person ID: 93 survived infection and is now immune
+ Person ID: 94 survived infection and is now immune
+ Person ID: 95 survived infection and is now immune
+ Person ID: 100 died from infection.
+==============TIME STEP==========================
+
+ ==============================================
+
+ Time step 3 has ended, starting time step 4
+
+ ==============================================
+ A total of 12 died from infection.
